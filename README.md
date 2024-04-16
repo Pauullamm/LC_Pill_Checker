@@ -21,6 +21,7 @@ This template is currently set to receive a text document with information on th
 # Things to work on 🛠️🔬
 1. Explore different embeddings models and vectorstores
 2. Explore the use of dimensionality reduction (UMAP) to improve model perfomance
+3. Explore the use of [corrective RAG](https://doi.org/10.48550/arXiv.2401.15884) to improve accuracy
 
 
 
